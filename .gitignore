@@ -35,4 +35,4 @@ Thumbs.db
 backend/.env
 
 
-backend/.env 
+backend/config
