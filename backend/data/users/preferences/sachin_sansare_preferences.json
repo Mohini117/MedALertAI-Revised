@@ -1,0 +1,13 @@
+{
+  "notification_sound": "default",
+  "reminder_frequency": "daily",
+  "voice_enabled": true,
+  "push_notifications": true,
+  "email_notifications": false,
+  "sms_notifications": true,
+  "whatsapp_notifications": false,
+  "email": "",
+  "phone": "9022421107",
+  "whatsapp": "",
+  "updated_at": "2025-09-02T16:30:13.134583"
+}

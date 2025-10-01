@@ -1,0 +1,32 @@
+ # requirements.txt
+together
+<<<<<<< HEAD
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+aiofiles
+schedule
+edge-tts
+firebase-admin
+aiohttp
+python-dotenv 
+  
+=======
+pandas
+python-dotenv
+SpeechRecognition
+pyttsx3
+langchain_groq
+openai
+gtts
+pygame
+pipwin
+sounddevice
+speechrecognition
+gTTs
+plyer
+pydub
+scipy
+elevenlabs
+>>>>>>> 6c98d7eff3b627810878ce83700706d1b8b8d572

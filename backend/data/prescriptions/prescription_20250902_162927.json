@@ -1,0 +1,44 @@
+{
+  "Date": "12/10/22",
+  "Patient": {
+    "Name": "Sachin Sansare",
+    "Age": "28"
+  },
+  "Medicines": [
+    {
+      "Type": "Tablet",
+      "Medicine": "Augmentin 625mg",
+      "Dosage": "After meals",
+      "Timings": [
+        "8:00 AM",
+        "8:00 PM"
+      ]
+    },
+    {
+      "Type": "Tablet",
+      "Medicine": "Enzoflam",
+      "Dosage": "After meals",
+      "Timings": [
+        "8:00 AM",
+        "8:00 PM"
+      ]
+    },
+    {
+      "Type": "Tablet",
+      "Medicine": "PanD 40mg",
+      "Dosage": "Before meals",
+      "Timings": [
+        "8:00 AM"
+      ]
+    },
+    {
+      "Type": "Gum Paint",
+      "Medicine": "Hexigel",
+      "Dosage": "",
+      "Timings": [
+        "8:00 AM",
+        "8:00 PM"
+      ]
+    }
+  ]
+}

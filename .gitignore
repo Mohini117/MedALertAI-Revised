@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (if large)
+*.csv
+*.h5
+*.ckpt
+*.pt
+*.model
+
+# Logs
+*.log
+
+# Environment variables
+backend/.env
+
+
+backend/.env 
